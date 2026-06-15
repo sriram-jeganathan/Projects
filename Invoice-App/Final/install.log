@@ -1,0 +1,9 @@
+[17:10:55 2026-06-04] FETCHING Version 2.43.2
+[17:10:55 2026-06-04] CREATING /home/sriram/.spicetify
+[17:10:55 2026-06-04] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.43.2/spicetify-2.43.2-linux-amd64.tar.gz
+[17:10:56 2026-06-04] EXTRACTING /home/sriram/.spicetify/spicetify.tar.gz
+[17:10:56 2026-06-04] SETTING EXECUTABLE PERMISSIONS TO /home/sriram/.spicetify/spicetify
+[17:10:56 2026-06-04] REMOVING /home/sriram/.spicetify/spicetify.tar.gz
+[17:10:56 2026-06-04] APPENDING /home/sriram/.spicetify to PATH in /home/sriram/.zshrc
+[17:10:56 2026-06-04] spicetify v2.43.2 was installed successfully to /home/sriram/.spicetify
+[17:10:56 2026-06-04] Run 'spicetify --help' to get started
